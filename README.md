@@ -1,3 +1,6 @@
+
+@autors cbhas & ALISrj
+
 # taller12
 ## Desarrollo de ejercicios
 ### Temáticas segundo bimestre
